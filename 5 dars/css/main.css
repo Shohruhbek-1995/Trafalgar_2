@@ -1,0 +1,312 @@
+
+body {
+    background-color: #fff;
+}
+
+.nav {
+    display: flex;
+    line-height: 10;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 0 40px;
+}
+
+.logotip {
+
+    margin-left: 100px;
+    margin-top: 15px;
+
+}
+.menu span {
+    margin-left: 30px;
+}
+.menu {
+    margin-right: 90px;
+}
+
+.menu .links-item a {
+    text-decoration: none;
+    color: rgba(233, 26, 19, 0.8);  
+}
+
+.menu .links-item a {
+    color: black;
+}
+
+
+
+.menyu-img {
+    width: 693px;
+    height: 598px;
+    margin: 50px;
+}
+
+.menyu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    margin-top: 130px;
+    margin-left: 120px;
+}
+
+
+
+.button {
+    margin-left: 120px;
+    margin-top: 50px;
+    background-color:#458FF6;
+    border: #458FF6 1px solid;
+    border-radius: 55px;
+    padding: 15px 50px;
+    color: #fff;
+    font-size: 20px;
+    
+}
+
+
+
+.text1{
+    text-align: center;
+    margin: 20px 150px;
+    margin-top: 200px;
+}
+
+.line {
+    border-bottom: #000 3px solid;
+    width: 80px;
+    margin: 30px auto;
+}
+
+.item {
+    padding: 50px 30px;
+
+}
+
+.select1,
+.select2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.b-content {
+    background-color: #458FF6;
+    color: #fff;
+    border: #458FF6 1px solid;
+    border-radius: 55px;
+    padding: 16px 50px;
+    margin-top: 100px;
+    margin-left: 550px;
+    border: #fff 1px solid;
+}
+
+.learn{
+    text-decoration: none;
+    color: #fff;
+}
+
+.learn1{
+    text-decoration: none;
+    color: #458FF6;
+}
+
+.news {
+    display: flex;
+    margin-top: 200px;
+}
+
+.text3 {
+
+    margin: 50px 100px;
+}
+
+.line2 {
+    border-bottom: #000 3px solid;
+    width: 50px;
+}
+
+.bot-learn {
+    background-color: #fff;
+    color: #458FF6;
+    border: #458FF6 1px solid;
+    border-radius: 55px;
+    padding: 16px 50px;
+    margin-top: 50px;
+}
+
+
+
+/* download */
+.download {
+    display: flex;
+}
+
+
+/* feedback */
+.head {
+    background: linear-gradient(#67C3F3, #5A98F2);
+    width: 800px;
+    height: 300px;
+    margin: auto;
+    border-radius: 24px;
+    color: #fff;
+    margin-top: 200px;
+}
+
+.head h3 {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.line3 {
+    margin-left: 385px;
+    border-bottom: #fff 3px solid;
+    width: 50px;
+}
+
+.feed-text {
+    display: flex;
+    margin: 30px 60px;
+}
+
+.feed-text img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: #fff 2px solid;
+}
+
+.key {
+    width: 300px;
+    margin-left: 20px;
+}
+
+.text-feed {
+    width: 400px;
+    margin-top: 30px;
+}
+
+.key {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+}
+
+.key p {
+    margin: 0;
+}
+
+.text-feed {
+    font-size: 15px;
+}
+
+
+
+/* yangiliklar  */
+.news-word {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.lin {
+    margin: auto;
+}
+
+.news {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.images p,
+h3,
+a {
+    padding: 5px 20px;
+}
+
+.images {
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    margin-top: 30px;
+}
+
+.images a {
+    color: #458FF6;
+    text-decoration: none;
+}
+
+.btn-news {
+    background-color: #fff;
+    color: #458FF6;
+    border: #458FF6 1px solid;
+    border-radius: 55px;
+    padding: 16px 50px;
+    margin-top: 100px;
+    margin-left: 580px;
+}
+
+p{
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* footer */
+.footer {
+    width: auto;
+    color: #fff;
+    display: flex;
+    margin-top: 100px;
+    background: #458FF6;
+    height: 400px;
+}
+
+.logo-t {
+    font-size: 35px;
+    padding: 5px 6px 5px 13px;
+    border-radius: 50%;
+    background: #fff;
+    color: #5A98F2;
+    text-align: center;
+}
+
+.footer-logo {
+    margin-left: 15px;
+}
+
+.footer ul {
+    margin-left: 40px;
+    padding: 0;
+}
+
+.footer ul li {
+    list-style: none;
+    padding-top: 15px;
+}
+
+.first {
+    width: 500px;
+}
+
+.first li {
+    margin-top: 20px;
+}
+
+.footer h4 {
+    padding-left: 20px;
+}
+
+.footer a {
+    text-decoration: none;
+
+    color: #fff;
+
+}
+.strong{
+    margin-left: 20px;
+}
